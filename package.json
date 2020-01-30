@@ -1,0 +1,29 @@
+{
+  "name": "basic-xss-server",
+  "version": "1.0.0",
+  "description": "A basic XSS server in nodejs",
+  "main": "app.js",
+  "scripts": {
+    "test": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kyaEH/NodeJS-BasicXSSClientServer.git"
+  },
+  "keywords": [
+    "xss",
+    "cybersecurity",
+    "server",
+    "ethical",
+    "hacking"
+  ],
+  "author": "KyaEH",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kyaEH/NodeJS-BasicXSSClientServer/issues"
+  },
+  "homepage": "https://github.com/kyaEH/NodeJS-BasicXSSClientServer#readme",
+  "dependencies": {
+    "ip": "^1.1.5"
+  }
+}
