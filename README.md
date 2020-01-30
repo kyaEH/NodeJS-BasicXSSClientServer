@@ -1,11 +1,21 @@
-# NodeJS-BasicXSSClientServer
-For education purposes only.
+# Basic XSS Server
+For educational purposes only.
 
-A basic NodeJS server to listen XSS data.
+### Prerequisites
+IP and HTTP modules are installed into the node modules folder of the package, but in case you would remove them:
 
-Run: 
-node app.js
+```
+npm i ip
+```
 
+```
+var ip = require('ip')
+var http = require('http')
+```
+## Run
 
-The node modules are included into the git, you can simply copy the code and then:
-npm i ip --save
+```
+var xss = require('basic-xss-server');
+
+xss.StartXSS();
+```
