@@ -15,7 +15,7 @@ var http = require('http')
 ## Run
 
 ```
+https://github.com/kyaEH/NodeJS-BasicXSSClientServer.git ServerXSS
+cd ServerXSS
 npm start
-OR
-node app.js
 ```
