@@ -15,7 +15,7 @@ var http = require('http')
 ## Run
 
 ```
-var xss = require('basic-xss-server');
-
-xss.StartXSS();
+npm start
+OR
+node app.js
 ```
