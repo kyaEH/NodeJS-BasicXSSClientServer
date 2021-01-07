@@ -4,7 +4,8 @@
   "description": "A basic XSS server in nodejs",
   "main": "app.js",
   "scripts": {
-    "test": "node app.js"
+    "test": "node app.js",
+    "start": "node app.js
   },
   "repository": {
     "type": "git",
