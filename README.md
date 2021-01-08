@@ -1,5 +1,5 @@
 # Basic XSS Server
-For educational purposes only.
+Licence: MIT
 
 ### Prerequisites
 IP and HTTP modules are installed into the node modules folder of the package, but in case you would remove them:
